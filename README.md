@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+⚡ Fun fact: cheese i actually cheese
 <!--
 **mrbarb/mrbarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
